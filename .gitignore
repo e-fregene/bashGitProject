@@ -1,0 +1,5 @@
+daily.log
+.DS_Store.       # Commonly found on Mac
+*.gif.           # All files ending in .gif
+workspace/images # All files inside the images directory
+^Backup          # Any files that begin with Backup
